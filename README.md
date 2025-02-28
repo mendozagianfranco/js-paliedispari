@@ -2,15 +2,39 @@
 
 ## Palidroma
 
-Chiedere all’utente di inserire una parola
+Chiedere all’utente di inserire una parola \
 Creare una funzione per capire se la parola inserita è palindroma
 
 ---
 
+### Soluzione
+
+### INPUT
+
+Parola inserita dall'utente
+
+### ALGORITMO, PROCEDIMENTO
+
+Prendere parola dell'utente verificare se è palindroma
+Invertire parola e controllare se è uguale alla parola dell'utente
+
+### OUTPUT
+
+Stampare se la parola è o non è palindroma
+
+### Pseudocodice
+
+-   Chiedere all'utente di inserire una parola
+-   Prendere la parola dell'utente e invertirla
+-   SE la parola invertita è uguale alla parola fornita dall'utente
+    -   la parola è palindroma
+-   ALTRIMENTI non è palindroma
+-   Stampare risultato
+
 ## Pari e Dispari
 
-L’utente sceglie pari o dispari e inserisce un numero da 1 a 5.
-Generiamo un numero random (sempre da 1 a 5) per il computer (usando una funzione).
+L’utente sceglie pari o dispari e inserisce un numero da 1 a 5.\
+Generiamo un numero random (sempre da 1 a 5) per il computer (usando una funzione). \
 Sommiamo i due numeri
-Stabiliamo se la somma dei due numeri è pari o dispari (usando una funzione)
+Stabiliamo se la somma dei due numeri è pari o dispari (usando una funzione) \
 Dichiariamo chi ha vinto.
